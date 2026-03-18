@@ -151,6 +151,9 @@ The backend first filters approved properties from MySQL, then optionally calls 
 ### 🏠 Home Page
 ![Home](images/home.png)
 
+### Ai Recommandation 
+![ai](images/ai_filtering.png)
+
 ### 🔐 Admin Dashboard
 ![Admin](images/admin.png)
 
