@@ -145,3 +145,23 @@ The backend first filters approved properties from MySQL, then optionally calls 
 - The frontend expects the backend on `http://localhost:8080` by default.
 - `database/schema.sql` documents the full MySQL schema and is mounted into MySQL in Docker.
 - The AI provider response parser is tolerant because RapidAPI GPT wrappers do not all return the same JSON shape.
+
+  ## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home](images/home.png)
+
+### 🔐 Admin Dashboard
+![Admin](images/admin.png)
+
+### 🏢 Property Listing
+![Property](images/list_propery.png)
+
+### 🏡 Property Details
+![Details](images/rental_house_details.png)
+
+### 💳 Booking & Payment (Razorpay)
+![Booking](images/booking_and_rozorpay.png)
+
+### 🏘️ Apartment View
+![Apartment](images/apartment1.jpg)
