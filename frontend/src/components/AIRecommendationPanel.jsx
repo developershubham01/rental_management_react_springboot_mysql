@@ -33,7 +33,7 @@ export default function AIRecommendationPanel() {
       setProperties([]);
       setError(
         requestError.response?.data?.message ||
-          "Recommendations abhi load nahi ho pa rahi hain."
+          "connnect the rapid api"
       );
     } finally {
       setLoading(false);
