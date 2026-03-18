@@ -69,7 +69,7 @@ cd backend
 mvn spring-boot:run
 ```
 
-If local MySQL credentials are not available, you can run the backend with the bundled H2-backed local profile:
+
 
 ```bash
 cd backend
