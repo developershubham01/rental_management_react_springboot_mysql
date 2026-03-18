@@ -55,7 +55,7 @@ Full-stack rental property platform inspired by MagicBricks, built with React, T
 
 ## Environment
 
-1. Copy `.env.example` to `.env`.
+1. Read `.env`.
 2. Fill in `RAZORPAY_KEY_ID`, `RAZORPAY_KEY_SECRET`, and `RAPIDAPI_KEY`.
 3. Keep `RAPIDAPI_HOST=chatgpt-42.p.rapidapi.com`.
 4. If your RapidAPI subscription uses a different route than `/chat`, change `AI_API_URL`.
